@@ -1,6 +1,6 @@
 # MESHSTICK
 
-If you are self assembling the board you can view the interactive BOM here below
+If you are assembling the board yourself you can view the interactive BOM here below
 
 iBOM
 
@@ -65,7 +65,7 @@ v3.zip (includes GERBER, BOM and CPL)
 
 V4 (4 layer board)
 
-Adds I2C header for connecting more I2C devices in the furture
+Adds I2C header for connecting more I2C devices in the future
 
 ![image](https://github.com/user-attachments/assets/228740ff-ed01-44a1-b398-000f16365175)
 
@@ -123,7 +123,7 @@ Lora:
 
 **UPDATE** [2025-03-08]
 
-If you have installed meshtasticd package, you will first need to stop the meshtasticd service to run mui
+If you have installed the meshtasticd package, you will first need to stop the meshtasticd service to run mui
 ```
 sudo systemctl stop meshtasticd
 sudo systemctl disable meshtasticd
